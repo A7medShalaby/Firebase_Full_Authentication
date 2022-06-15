@@ -1,16 +1,42 @@
-# firebase_authentication
+<h1 align="center">Firebase_Authentication</h3>
 
-A new Flutter project.
+## 🔍 Overview:
 
-## Getting Started
+- 🐥 Used Dart & Flutter Framework.
 
-This project is a starting point for a Flutter application.
+- ☺ Creating Simple Ui.
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Writing Clean Code As I Can.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎯 Features:
+
+- 🔑 Creating Sign In Full Method And Link With Firebase.
+
+- 🎨 Creating Sign Up Full Method And Link With Firebase.
+
+-	⚡ Send An Email To Verfication Sign Up.
+
+-	🔐 Resetting Your Password If You Forgot It.
+
+-	🐍 Build Full Validation With SnackBars.
+
+## 📱 Screens:
+
+### 1️⃣ Sign In Screen.
+
+<a href="#"><img width="100%" height="auto" src=" " height="175px"/></a>
+
+### 2️⃣ Sign Up Screen.
+
+<a href="#"><img width="100%" height="auto" src=" " height="175px"/></a>
+
+
+
+## 🔧 Dependencies:
+
+- cloud_firestore: ^3.1.17
+- firebase_core: ^1.17.1
+- google_fonts: ^3.0.1
+- firebase_auth: ^3.3.19
+- email_validator: ^2.0.1
